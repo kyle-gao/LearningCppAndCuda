@@ -67,3 +67,5 @@ int main(){
 //    * when used with an already declared pointer: "dereference"
 //    Example: std::cout << *pa << std::endl;
 //    "print the underlying value of a"
+
+//     variable name for an array returns the address of the first element, behaves similarly to a pointer.
